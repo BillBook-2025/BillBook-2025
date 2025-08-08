@@ -1,5 +1,12 @@
 # BillBook-2025  
-  
-![main logo](/캡처.jpg)
+---
 
-[![Members](https://github.com/BillBook-2025.png?size=200)](https://github.com/orgs/BillBook-2025/people)
+## ​​ Main Logo
+![main logo](logo.jpg)
+
+---
+
+## ​ Members
+| [<img src="https://github.com/GJYeon.png" width="80">](https://github.com/GJYeon) | [<img src="https://github.com/000uk.png" width="80">](https://github.com/000uk) | [<img src="https://github.com/jmni817.png" width="80">](https://github.com/jmni817) |
+|:---:|:---:|:---:|
+| [GJYeon](https://github.com/GJYeon) | [000uk](https://github.com/000uk) | [jmni817](https://github.com/jmni817) |   
