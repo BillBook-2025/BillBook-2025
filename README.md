@@ -1,1 +1,1 @@
-![main logo]('/캡처.jpg')   
+![main logo]('./캡처.jpg')   
